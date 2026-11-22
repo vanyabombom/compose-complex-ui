@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NewProj" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#090A10</item>
+        <item name="android:navigationBarColor">#090A10</item>
+    </style>
+
+    <style name="Theme.NewProj" parent="Base.Theme.NewProj" />
+</resources>
